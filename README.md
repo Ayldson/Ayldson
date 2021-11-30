@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayldson
+- 👀 I’m interested in learn 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Porto Digital
+- 📫 How to reach me @ayldson
